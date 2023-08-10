@@ -1,0 +1,204 @@
+input_study,input_dataset,input_version,input_variable,output_study,output_dataset,output_version,output_variable
+German Social Cohesion Panel,h,2021_2,hnorent,German Social Cohesion Panel,hgen,2021_2,hgnorent
+German Social Cohesion Panel,h,2021_2,hmoveinyr,German Social Cohesion Panel,hgen,2021_2,hgmoveyr
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hgsize
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg1size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg2size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg3size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg4size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg5size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg6size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg7size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg8size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg9size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg10size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg11size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg12size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg13size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg14size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hg15size
+German Social Cohesion Panel,h,2021_2,hflatsize,German Social Cohesion Panel,hgen,2021_2,hgfsize
+German Social Cohesion Panel,h,2021_2,htenancy,German Social Cohesion Panel,hgen,2021_2,hgowner_scp
+German Social Cohesion Panel,h,2021_2,hdorm01,German Social Cohesion Panel,hgen,2021_2,hgowner_scp
+German Social Cohesion Panel,h,2021_1,hhhtyp,German Social Cohesion Panel,hgen,2021_2,hgowner_scp
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hghinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi1hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi2hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi3hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi4hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi5hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi6hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi7hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi8hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi9hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi10hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi11hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi12hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi13hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi14hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgi15hinc
+German Social Cohesion Panel,h,2021_2,hhhincnet,German Social Cohesion Panel,hgen,2021_2,hgfhinc
+German Social Cohesion Panel,h,2021_2,interviewdatum,German Social Cohesion Panel,hgen,2021_2,hghmonth
+German Social Cohesion Panel,h,2021_2,interviewdatum,German Social Cohesion Panel,hgen,2021_2,iyear
+German Social Cohesion Panel,h,2021_2,qmethod,German Social Cohesion Panel,hgen,2021_2,hghmode
+German Social Cohesion Panel,p,2021_1,pbirthyear,German Social Cohesion Panel,pbrutto,2021_2,geburt
+German Social Cohesion Panel,p,2021_1,porigin,German Social Cohesion Panel,pbrutto,2021_2,pnat
+German Social Cohesion Panel,p,2021_1,pothcount,German Social Cohesion Panel,pbrutto,2021_2,pnat
+German Social Cohesion Panel,h,2021_1,hprelat01,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat02,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat03,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat04,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat05,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat06,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat07,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat08,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat09,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat10,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat11,German Social Cohesion Panel,pbrutto,2021_2,stell
+German Social Cohesion Panel,h,2021_1,hprelat12,German Social Cohesion Panel,pbrutto,2021_2,stell
+scp,p,2021_1,pnation01,scp,pgen,2021_1,pgnation_scp
+scp,p,2021_1,pnatoth,scp,pgen,2021_1,pgnation_scp
+scp,p,2021_1,pfamstat,scp,pgen,2021_1,pgfamstd_scp
+scp,p,2021_1,pcohab,scp,pgen,2021_1,pgfamstd_scp
+scp,p,2021_1,pempstat1,scp,pgen,2021_1,pgstib1_scp
+scp,p,2021_1,poccstat,scp,pgen,2021_1,pgstib1_scp
+scp,p,2021_1,pworker,scp,pgen,2021_1,pgstib1_scp
+scp,p,2021_1,pselfemp,scp,pgen,2021_1,pgstib1_scp
+scp,p,2021_1,pempl,scp,pgen,2021_1,pgstib1_scp
+scp,p,2021_1,pcivil,scp,pgen,2021_1,pgstib1_scp
+scp,p,2021_1,pempstat1,scp,pgen,2021_1,pgemplst_scp
+scp,p,2021_1,pempstat1,scp,pgen,2021_1,pglfs1_scp
+scp,p,2021_1,pedu01,scp,pgen,2021_1,pglfs1_scp
+scp,p,2021_1,pedu02,scp,pgen,2021_1,pglfs1_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_1,pgisco88_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_1,pgisco08_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_1,pgisei08_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_1,pgmps08_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_1,pgsiops08_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_1,pgisei88_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_1,pgegp08_1_scp
+scp,p,2021_1,pselfemp,scp,pgen,2021_1,pgegp08_1_scp
+scp,p,2021_1,pempcond02,scp,pgen,2021_1,pgegp08_1_scp
+scp,p,2021_1,poccstat,scp,pgen,2021_1,pgegp08_1_scp
+scp,p,2021_1,pedu01,scp,pgen,2021_1,pgisced97_scp
+scp,p,2021_1,pedu02,scp,pgen,2021_1,pgisced97_scp
+scp,p,2021_1,pedu01,scp,pgen,2021_1,pgisced11_scp
+scp,p,2021_1,pedu02,scp,pgen,2021_1,pgisced11_scp
+scp,p,2021_1,pedu01,scp,pgen,2021_1,pgcasmin_scp
+scp,p,2021_1,pedu02,scp,pgen,2021_1,pgcasmin_scp
+scp,p,2021_1,pempstat1,scp,pgen,2021_1,pgiscolj88_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_1,pgiscolj88_scp
+scp,p,2021_1,pempstat1,scp,pgen,2021_1,pgiscolj08_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_1,pgiscolj08_scp
+scp,p,2021_1,interviewdatum,scp,pgen,2021_1,pgmonth
+scp,p,2021_1,interviewdatum,scp,pgen,2021_1,pgpiyear
+scp,p,2021_1,qmethod,scp,pgen,2021_1,pgmode
+scp,p,2021_2,pnation01,scp,pgen,2021_2,pgnation_scp
+scp,p,2021_2,pnatoth,scp,pgen,2021_2,pgnation_scp
+scp,p,2021_2,pfamstat,scp,pgen,2021_2,pgfamstd_scp
+scp,p,2021_2,pcohab,scp,pgen,2021_2,pgfamstd_scp
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pglabgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi1labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi2labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi3labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi4labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi5labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi6labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi7labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi8labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi9labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi10labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi11labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi12labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi13labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi14labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgi15labgro
+scp,p,2021_2,plabincbrut,scp,pgen,2021_2,pgimpgro
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pglabnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi1labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi2labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi3labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi4labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi5labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi6labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi7labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi8labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi9labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi10labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi11labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi12labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi13labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi14labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgi15labnet
+scp,p,2021_2,plabincnet,scp,pgen,2021_2,pgimpnet
+scp,p,2021_2,pempstat,scp,pgen,2021_2,pgstib_scp
+scp,p,2021_1,poccstat,scp,pgen,2021_2,pgstib_scp
+scp,p,2021_1,pworker,scp,pgen,2021_2,pgstib_scp
+scp,p,2021_1,pselfemp,scp,pgen,2021_2,pgstib_scp
+scp,p,2021_1,pempl,scp,pgen,2021_2,pgstib_scp
+scp,p,2021_1,pcivil,scp,pgen,2021_2,pgstib_scp
+scp,p,2021_1,pempstat1,scp,pgen,2021_2,pgstib_scp
+scp,p,2021_2,pfirmsize,scp,pgen,2021_2,pgstib_scp
+scp,p,2021_1,pempstat1,scp,pgen,2021_2,pgstib1_scp
+scp,p,2021_1,poccstat,scp,pgen,2021_2,pgstib1_scp
+scp,p,2021_1,pworker,scp,pgen,2021_2,pgstib1_scp
+scp,p,2021_1,pselfemp,scp,pgen,2021_2,pgstib1_scp
+scp,p,2021_1,pempl,scp,pgen,2021_2,pgstib1_scp
+scp,p,2021_1,pcivil,scp,pgen,2021_2,pgstib1_scp
+scp,p,2021_2,pempstat,scp,pgen,2021_2,pgemplst_scp
+scp,p,2021_2,pshorttime,scp,pgen,2021_2,pgemplst_scp
+scp,p,2021_2,pminijob,scp,pgen,2021_2,pgemplst_scp
+scp,p,2021_1,pedu01,scp,pgen,2021_2,pglfs_scp
+scp,p,2021_1,pedu02,scp,pgen,2021_2,pglfs_scp
+scp,p,2021_2,pempstat,scp,pgen,2021_2,pglfs_scp
+scp,p,2021_2,ppaidwork,scp,pgen,2021_2,pglfs_scp
+scp,p,2021_1,pempstat1,scp,pgen,2021_2,pglfs1_scp
+scp,p,2021_1,pedu01,scp,pgen,2021_2,pglfs1_scp
+scp,p,2021_1,pedu02,scp,pgen,2021_2,pglfs1_scp
+scp,p,2021_2,poccupation,scp,pgen,2021_2,pgisco08_scp
+scp,p,2021_2,pmoccupation_isco08,scp,pgen,2021_2,pgmisco08_scp
+scp,p,2021_2,pfoccupation_isco08,scp,pgen,2021_2,pgvisco08_scp
+scp,p,2021_2,poccupation,scp,pgen,2021_2,pgisco88_scp
+scp,p,2021_2,pmoccupation_isco08,scp,pgen,2021_2,pgmisco88_scp
+scp,p,2021_2,pfoccupation_isco08,scp,pgen,2021_2,pgvisco88_scp
+scp,p,2021_2,poccupation,scp,pgen,2021_2,pgisei08_scp
+scp,p,2021_2,pmoccupation_isco08,scp,pgen,2021_2,pgmisei08_scp
+scp,p,2021_2,pfoccupation_isco08,scp,pgen,2021_2,pgvisei08_scp
+scp,p,2021_2,poccupation,scp,pgen,2021_2,pgisei88_scp
+scp,p,2021_2,pmoccupation_isco08,scp,pgen,2021_2,pgmisei88_scp
+scp,p,2021_2,pfoccupation_isco08,scp,pgen,2021_2,pgvisei88_scp
+scp,p,2021_2,poccupation,scp,pgen,2021_2,pgmps08_scp
+scp,p,2021_2,pfoccupation_isco08,scp,pgen,2021_2,pgmmps08_scp
+scp,p,2021_2,pfoccupation_isco08,scp,pgen,2021_2,pgvmps08_scp
+scp,p,2021_2,poccupation,scp,pgen,2021_2,pgsiops08_scp
+scp,p,2021_2,pmoccupation_isco08,scp,pgen,2021_2,pgmsiops08_scp
+scp,p,2021_2,pfoccupation_isco08,scp,pgen,2021_2,pgvsiops08_scp
+scp,p,2021_2,pmoccupation_isco08,scp,pgen,2021_2,pgmegp08_scp
+scp,p,2021_2,pmotherocc01,scp,pgen,2021_2,pgmegp08_scp
+scp,p,2021_2,pmotherocc02,scp,pgen,2021_2,pgmegp08_scp
+scp,p,2021_2,pmotherocc03,scp,pgen,2021_2,pgmegp08_scp
+scp,p,2021_2,pmotherocc04,scp,pgen,2021_2,pgmegp08_scp
+scp,p,2021_2,pmotherocc05,scp,pgen,2021_2,pgmegp08_scp
+scp,p,2021_2,pfoccupation_isco08,scp,pgen,2021_2,pgvegp08_scp
+scp,p,2021_2,pfatherocc01,scp,pgen,2021_2,pgvegp08_scp
+scp,p,2021_2,pfatherocc02,scp,pgen,2021_2,pgvegp08_scp
+scp,p,2021_2,pfatherocc03,scp,pgen,2021_2,pgvegp08_scp
+scp,p,2021_2,pfatherocc04,scp,pgen,2021_2,pgvegp08_scp
+scp,p,2021_2,pfatherocc05,scp,pgen,2021_2,pgvegp08_scp
+scp,p,2021_1,poccupation,scp,pgen,2021_2,pgegp08_scp
+scp,p,2021_1,pselfemp,scp,pgen,2021_2,pgegp08_scp
+scp,p,2021_1,pempcond02,scp,pgen,2021_2,pgegp08_scp
+scp,p,2021_1,poccstat,scp,pgen,2021_2,pgegp08_scp
+scp,p,2021_2,pfirmsize,scp,pgen,2021_2,pgbetr_scp
+scp,p,2021_2,pempstat,scp,pgen,2021_2,pgbetr_scp
+scp,p,2021_2,pedu01,scp,pgen,2021_2,pgisced11_scp
+scp,p,2021_2,pedu02,scp,pgen,2021_2,pgisced11_scp
+scp,p,2021_2,pedu01,scp,pgen,2021_2,pgisced97_scp
+scp,p,2021_2,pedu02,scp,pgen,2021_2,pgisced97_scp
+scp,p,2021_2,pedu01,scp,pgen,2021_2,pgcasmin_scp
+scp,p,2021_2,pedu02,scp,pgen,2021_2,pgcasmin_scp
+scp,p,2021_2,pedu01,scp,pgen,2021_2,pgbilzeit_scp
+scp,p,2021_2,pedu02,scp,pgen,2021_2,pgbilzeit_scp
+scp,p,2021_2,interviewdatum,scp,pgen,2021_2,pgmonth
+scp,p,2021_2,interviewdatum,scp,pgen,2021_2,pgpiyear
+scp,p,2021_2,qmethod,scp,pgen,2021_2,pgmode

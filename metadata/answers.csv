@@ -1,0 +1,269 @@
+study,instrument,answer_list,value,label,label_de
+scp,2021_1,1+99,1,Yes,Ja
+scp,2021_1,1+99,2,No,Nein
+scp,2021_1,18,0,0 Completely dissatisfied,0 Ganz und gar unzufrieden
+scp,2021_1,18,1,1,1
+scp,2021_1,18,2,2,2
+scp,2021_1,18,3,3,3
+scp,2021_1,18,4,4,4
+scp,2021_1,18,5,5,5
+scp,2021_1,18,6,6,6
+scp,2021_1,18,7,7,7
+scp,2021_1,18,8,8,8
+scp,2021_1,18,9,9,9
+scp,2021_1,18,10,10 Completely satisfied,10 Ganz und gar zufrieden
+scp,2021_1,20,0,0 Not at all valuable or useful,0 Überhaupt nicht wertvoll und nützlich
+scp,2021_1,20,1,1,1
+scp,2021_1,20,2,2,2
+scp,2021_1,20,3,3,3
+scp,2021_1,20,4,4,4
+scp,2021_1,20,5,5,5
+scp,2021_1,20,6,6,6
+scp,2021_1,20,7,7,7
+scp,2021_1,20,8,8,8
+scp,2021_1,20,9,9,9
+scp,2021_1,20,10,10 Completely valuable and useful,10 Vollkommen wertvoll und nützlich
+scp,2021_1,27,1,Married,Verheiratet
+scp,2021_1,27,2,Registered same-sex partnership,Eingetragene gleichgeschlechtliche Partnerschaft
+scp,2021_1,27,3,"Single, I’ve never been married",Ledig (war nie verheiratet)
+scp,2021_1,27,4,Divorced,Geschieden
+scp,2021_1,27,5,Registered same-sex partnership annulled,Eingetragene gleichgeschlechtliche Partnerschaft aufgehoben
+scp,2021_1,27,6,Widowed,Verwitwet
+scp,2021_1,27,7,Life partner from registered same-sex partnership deceased,Lebenspartner/-in aus eingetragener gleichgeschlechtlicher Partnerschaft verstorben
+scp,2021_1,62,1,In Germany,In Deutschland
+scp,2021_1,62,2,In another country,In einem anderen Land
+scp,2021_1,82,1,Permanent contract,Unbefristeten Arbeitsvertrag
+scp,2021_1,82,2,Fixed-term contract,Befristetes Arbeitsverhältnis
+scp,2021_1,82,3,Not applicable/do not have an employment contract,Trifft nicht zu/habe keinen Arbeitsvertrag
+scp,2021_1,147,1,Disagree completely,Stimme überhaupt nicht zu
+scp,2021_1,147,2,Disagree,Stimme eher nicht zu
+scp,2021_1,147,3,Neither agree nor disagree,Teils-teils
+scp,2021_1,147,4,Agree,Stimme eher zu
+scp,2021_1,147,5,Agree completely,Stimme voll und ganz zu
+scp,2021_1,211,1,Male,Männlich
+scp,2021_1,211,2,Female,Weiblich
+scp,2021_1,211,3,Diverse,Divers
+scp,2021_1,216,1,Not at all,Überhaupt nicht
+scp,2021_1,216,2,Rather not,Eher nicht
+scp,2021_1,216,3,In Part,Teils-teils
+scp,2021_1,216,4,Rather so,Eher schon
+scp,2021_1,216,5,Totally,Voll und ganz
+scp,2021_1,217,1,1 Not at all worried,Überhaupt nicht besorgt
+scp,2021_1,217,2,2 Not very worried,Nicht sehr besorgt
+scp,2021_1,217,3,3 Somewhat worried,Etwas besorgt
+scp,2021_1,217,4,4 Very worried,Sehr besorgt
+scp,2021_1,217,5,5 Extremely worried,Äußerst besorgt
+scp,2021_1,218,1,Not at all convinced,Überhaupt nicht überzeugt
+scp,2021_1,218,2,Not too convinced,Wenig überzeugt
+scp,2021_1,218,3,In part,Teils-teils
+scp,2021_1,218,4,Somewhat convinced,Ziemlich überzeugt
+scp,2021_1,218,5,Very convinced,Voll und ganz überzeugt
+scp,2021_1,220,1,Very unlikely,Sehr unwahrscheinlich
+scp,2021_1,220,2,Rather unlikely,Eher unwahrscheinlich
+scp,2021_1,220,3,Rather likely,Eher wahrscheinlich
+scp,2021_1,220,4,Very likely,Sehr wahrscheinlich
+scp,2021_1,221,0,0 No trust at all,0 Vertraue überhaupt nicht
+scp,2021_1,221,1,1,1
+scp,2021_1,221,2,2,2
+scp,2021_1,221,3,3,3
+scp,2021_1,221,4,4,4
+scp,2021_1,221,5,5,5
+scp,2021_1,221,6,6,6
+scp,2021_1,221,7,7,7
+scp,2021_1,221,8,8,8
+scp,2021_1,221,9,9,9
+scp,2021_1,221,10,10 Complete trust,10 Vertraue voll und ganz
+scp,2021_1,222,0,0 You can’t be too careful,0 Man kann nicht vorsichtig genug sein
+scp,2021_1,222,1,1,1
+scp,2021_1,222,2,2,2
+scp,2021_1,222,3,3,3
+scp,2021_1,222,4,4,4
+scp,2021_1,222,5,5,5
+scp,2021_1,222,6,6,6
+scp,2021_1,222,7,7,7
+scp,2021_1,222,8,8,8
+scp,2021_1,222,9,9,9
+scp,2021_1,222,10,10 Most people can be trusted,10 Den meisten Menschen kann man vertrauen
+scp,2021_1,224,1,Very much less than my fair share,Viel weniger als meinen gerechten Anteil
+scp,2021_1,224,2,Somewhat less than my fair share,Etwas weniger als meinen gerechten Anteil
+scp,2021_1,224,3,My fair share,Meinen gerechten Anteil
+scp,2021_1,224,4,Somewhat more than my fair share,Etwas mehr als meinen gerechten Anteil
+scp,2021_1,224,5,Very much more than my fair share,Viel mehr als meinen gerechten Anteil
+scp,2021_1,225,0,0 Very unlikeable,0 Sehr unsympathisch
+scp,2021_1,225,1,1,1
+scp,2021_1,225,2,2,2
+scp,2021_1,225,3,3,3
+scp,2021_1,225,4,4,4
+scp,2021_1,225,5,5,5
+scp,2021_1,225,6,6,6
+scp,2021_1,225,7,7,7
+scp,2021_1,225,8,8,8
+scp,2021_1,225,9,9,9
+scp,2021_1,225,10,10 Very likeable,10 Sehr sympathisch
+scp,2021_1,226,1,None,Keiner
+scp,2021_1,226,2,Very few of them,Wenige von ihnen
+scp,2021_1,226,3,Several of them,Einige von ihnen
+scp,2021_1,226,4,Many of them,Viele von ihnen
+scp,2021_1,226,5,Most of them,Die meisten
+scp,2021_1,226,6,All of them,Alle
+scp,2021_1,226,7,Don’t know,Weiß nicht
+scp,2021_1,227,1,Never,Nie
+scp,2021_1,227,2,Seldom,Selten
+scp,2021_1,227,3,Sometimes,Manchmal
+scp,2021_1,227,4,Often,Oft
+scp,2021_1,227,5,Always,Immer
+scp,2021_1,227_1,1,Never,Nie
+scp,2021_1,227_1,2,Seldom,Selten
+scp,2021_1,227_1,3,Sometimes,Manchmal
+scp,2021_1,227_1,4,Often,Oft
+scp,2021_1,227_1,5,Always,Immer
+scp,2021_1,227_1,6,I don‘t work,Habe keine Arbeit
+scp,2021_1,228,0,0 Entirely left,0 Ganz links
+scp,2021_1,228,1,1,1
+scp,2021_1,228,2,2,2
+scp,2021_1,228,3,3,3
+scp,2021_1,228,4,4,4
+scp,2021_1,228,5,5,5
+scp,2021_1,228,6,6,6
+scp,2021_1,228,7,7,7
+scp,2021_1,228,8,8,8
+scp,2021_1,228,9,9,9
+scp,2021_1,228,10,10 Entirely right,10 Ganz rechts
+scp,2021_1,229,1,SPD,SPD
+scp,2021_1,229,2,CDU/CSU,CDU/CSU
+scp,2021_1,229,3,FDP,FDP
+scp,2021_1,229,4,Bündnis 90/Die Grünen,Bündnis 90/Die Grünen
+scp,2021_1,229,5,Die Linke,Die Linke
+scp,2021_1,229,6,Alternative für Deutschland (AfD),Alternative für Deutschland (AfD)
+scp,2021_1,229,7,NPD/Republikaner/Die Rechte,NPD/Republikaner/Die Rechte
+scp,2021_1,229,8,Other,Andere
+scp,2021_1,229,9,I would not vote,Würde nicht wählen
+scp,2021_1,229,10,I am not eligible to vote,Bin nicht wahlberechtigt
+scp,2021_1,230,0,0 There were too many restrictions,0 Es gab zu viele Einschränkungen
+scp,2021_1,230,1,1,1
+scp,2021_1,230,2,2,2
+scp,2021_1,230,3,3,3
+scp,2021_1,230,4,4,4
+scp,2021_1,230,5,5 The restrictions were just right,5 Die Einschränkungen waren genau richtig
+scp,2021_1,230,6,6,6
+scp,2021_1,230,7,7,7
+scp,2021_1,230,8,8,8
+scp,2021_1,230,9,9,9
+scp,2021_1,230,10,10 There were too few restrictions,10 Es gab zu wenige Einschränkungen
+scp,2021_1,232,1,Roman Catholic,Römisch-Katholisch
+scp,2021_1,232,2,"Evangelical/Protestand (Evangelical Church in Germany, without free churches)","Evangelisch/Protestantisch (EKD, ohne Freikirchen)"
+scp,2021_1,232,3,Evangelical free church,Eine evangelische Freikirche
+scp,2021_1,232,4,Eastern Orthodox,Östlich-orthodox
+scp,2021_1,232,5,Jewish,Jüdisch
+scp,2021_1,232,6,Muslim/Islam,Muslimisch/Islam
+scp,2021_1,232,7,"Far Eastern religious communities like Buddhism, Hinduism, Sikh, Shinto, Tao","Fernöstliche Religionsgemeinschaft wie Buddhismus, Hinduismus, Sikh, Shinto, Tao"
+scp,2021_1,232,8,Another religion or confession,Einer anderen Religion oder Konfession
+scp,2021_1,232,9,"No, I don't have any religion or confession","Nein, ich fühle mich keiner Religion oder Konfession zugehörig"
+scp,2021_1,233,1,Lower secondary school,"Hauptschulabschluss, Volksschulabschluss, DDR 8. oder 9. Klasse"
+scp,2021_1,233,2,"Secondary school, O-level, or equivalent qualification",Realschulabschluss/Mittlere Reife oder gleichwertiger Abschluss
+scp,2021_1,233,3,Polytechnic secondary school,Polytechnische Oberschule der DDR mit Abschluss der 10. Klasse
+scp,2021_1,233,4,"Advanced technical certificate, higher secondary vocational school","Fachhochschulreife, Abschluss Fachoberschule"
+scp,2021_1,233,5,"High school, A-level, general or subject-linked higher education entrance qualification",Abitur/Allgemeine oder fachgebundene Hochschulreife
+scp,2021_1,233,6,Other school leaving certificate,Sonstiger Schulabschluss
+scp,2021_1,233,7,Currently a full-time student attending general school,"Aktuell Schüler/in, besuche eine allgemeinbildende Vollzeitschule"
+scp,2021_1,233,8,Left school without graduating,Von der Schule abgegangen ohne Schulabschluss
+scp,2021_1,234,1,Vocational-in-company training (apprenticeship),Beruflich-betriebliche Ausbildung (Lehre)
+scp,2021_1,234,2,Professional qualification from a vocational-school and training programme,Berufsqualifizierender Abschluss einer beruflich-schulischen Ausbildung
+scp,2021_1,234,3,Preparatory service for the intermediate civil service in public administration,Vorbereitungsdienst für den mittleren Dienst in der öffentlichen Verwaltung
+scp,2021_1,234,4,Completion of one-year training at a healthcare school,Abschluss einer einjährigen Ausbildung an einer Schule des Gesundheitswesens
+scp,2021_1,234,5,Completion of two-to-three years training at a healthcare school,Abschluss einer zwei-bis dreijährigen Ausbildung an einer Schule des Gesundheitswesens
+scp,2021_1,234,6,Completion of training as a care worker,Abschluss einer Ausbildung zum Erzieher/zur Erzieherin
+scp,2021_1,234,7,Graduation from a technical school in GDR,Abschluss einer Fachschule der DDR
+scp,2021_1,234,8,"Graduation from a technical school, master craftsperson school, administration and business academy, or technical academy","Abschluss einer Fach-, Meister-, Technikerschule, Verwaltungs- und Wirtschaftsakademie oder Fachakademie "
+scp,2021_1,234,9,Bachelor,Bachelor
+scp,2021_1,234,10,"Diploma, Master, Magister, State examination","Diplom, Master, Magister, Staatsexamen"
+scp,2021_1,234,11,PhD,Promotion/Ph.D.
+scp,2021_1,234,12,Other degree,Sonstiger Abschluss
+scp,2021_1,234,13,"Still in vocational training (in vocational preparation year, apprenticeship, internship, study)","Noch in beruflicher Ausbildung (in Berufsvorbereitungsjahr, Ausbildung, Praktikum, Studium)"
+scp,2021_1,234,14,"Currently a student in a vocationally oriented college, technical college, or similar","Aktuell Schüler/in in berufsorientierter Aufbau-, Fachschule oder Ähnliches"
+scp,2021_1,234,15,"No vocational qualification, not in vocational training",Keinen beruflichen Abschluss/nicht in beruflicher Ausbildung
+scp,2021_1,235,1,Full-time employed,Vollzeit erwerbstätig
+scp,2021_1,235,2,Part-time employed,Teilzeit erwerbstätig
+scp,2021_1,235,3,Short-time work,In Kurzarbeit
+scp,2021_1,235,4,Working a 'mini-job' (up to 450€),"In einem Mini-Job (bis 450,- Euro) "
+scp,2021_1,235,5,In first-time in-service training (betriebliche Erstausbildung/apprenticeship (Lehre),In betrieblicher Erstausbildung/Lehre
+scp,2021_1,235,6,"In further education, retraining, further vocational traning/rehabilitation","In Fortbildung, Umschulung, beruflicher Weiterbildung/Rehabilitation"
+scp,2021_1,235,7,On maternity/parental leave,In Mutterschaftsurlaub/Elternzeit
+scp,2021_1,235,8,Registered unemployed,Arbeitslos gemeldet
+scp,2021_1,235,9,In retirement/early retirement (Vorruhestand),In Rente/Pension oder Vorruhestand
+scp,2021_1,235,10,Attending school/(vocational) college/university,Auf der Schule/(Berufs-)Fachschule/Hochschule/Universität
+scp,2021_1,235,11,Fulfilling my voluntary year/federal voluntary service/voluntary military service,Im Freiwilligen Jahr/Bundesfreiwilligendienst/freiwilligen Wehrdienst
+scp,2021_1,235,12,Homemaker,Hausfrau/Hausmann
+scp,2021_1,235,13,None of the above,Nichts davon
+scp,2021_1,236,1,Self-employed or cooperative farmer,Selbstständige/r Landwirt/-in bzw. Genossenschaftsbauer/-bäuerin
+scp,2021_1,236,2,"University graduate in a freelance profession (doctor, lawyer, tax consultant, etc.) with no employees","Akademiker/-in in freiem Beruf (Arzt/Ärztin, Rechtsanwalt/-anwältin, Steuerberater/-in u.Ä.) mit keinen weiteren Mitarbeitenden "
+scp,2021_1,236,3,"University graduate in a freelance profession (doctor, lawyer, tax consultant, etc.) with one to four employees","Akademiker/-in in freiem Beruf (Arzt/Ärztin, Rechtsanwalt/-anwältin, Steuerberater/-in u.Ä.) mit 1 bis 4 Mitarbeitenden"
+scp,2021_1,236,4,"University graduate in a freelance profession (doctor, lawyer, tax consultant, etc.) with five or more employees","Akademiker/-in in freiem Beruf (Arzt/Ärztin, Rechtsanwalt/-anwältin, Steuerberater/-in u.Ä.) mit 5 und mehr Mitarbeitenden"
+scp,2021_1,236,5,"Self-employed in trade, hospitality, crafts, industry, services, also Me Incorporated or GDR Producers‘ Cooperative member with no employees","Selbstständige/r im Handel, Gastgewerbe, im Handwerk, in der Industrie, der Dienstleistung, auch Ich-AG oder PGH-Mitglied mit keinen weiteren Mitarbeitenden "
+scp,2021_1,236,6,"Self-employed in trade, hospitality, crafts, industry, services, also Me Incorporated or GDR Producers‘ Cooperative member with one to four employees","Selbstständige/r im Handel, Gastgewerbe, im Handwerk, in der Industrie, der Dienstleistung, auch Ich-AG oder PGH-Mitglied mit 1 bis 4 Mitarbeitenden"
+scp,2021_1,236,7,"Self-employed in trade, hospitality, crafts, industry, services, also Me Incorporated or GDR Producers‘ Cooperative member with five or more employees","Selbstständige/r im Handel, Gastgewerbe, im Handwerk, in der Industrie, der Dienstleistung, auch Ich-AG oder PGH-Mitglied mit 5 und mehr Mitarbeitenden"
+scp,2021_1,237,1,... a private flat or house?,"... in einer privaten Wohnung, einem privaten Haus?"
+scp,2021_1,237,2,... a shared flat with joint or separate funds?,... in einer Wohngemeinschaft mit gemeinsamer oder getrennter Kasse?
+scp,2021_1,237,3,"... shared accommocation such as a monastery, a homeless shelter or a refugee hostel?","... in einer Gemeinschaftsunterkunft wie zum Beispiel einem Kloster, einer Obdachlosenunterkunft oder einem Flüchtlingswohnheim?"
+scp,2021_1,237,4,"... a retirement or nursing home or home for the disabled where you do not run an independent household, i.e. do not manage your own affairs?","... in einem Seniorenheim, Altenheim, Pflegeheim oder Behindertenheim, in dem Sie keinen eigenständigen Haushalt führen, also nicht eigenständig wirtschaften?"
+scp,2021_1,239,1,Self-employed and liberal professions,Selbstständige und freie Berufe
+scp,2021_1,239,2,Civil servant,Beamte
+scp,2021_1,239,3,Employee,Angestellte
+scp,2021_1,239,4,Worker,Arbeiter
+scp,2021_1,239,5,Apprentice/Intern,Auszubildende und Praktikanten
+scp,2021_1,240,1,Lower level,Einfacher Dienst
+scp,2021_1,240,2,Middle level,Mittlerer Dienst
+scp,2021_1,240,3,Upper Level,Gehobener Dienst
+scp,2021_1,240,4,Executive Level,Höherer Dienst
+scp,2021_1,241,1,"Employee that follows general instructions (e.g. salesperson, data typist, secretarial assistant, care assistant)","Angestellte/r mit ausführender Tätigkeit nach allgemeiner Anweisung (z.B. Verkäufer/-in, Datentypist/-in, Sekretariatsassistent/-in, Pflegehelfer/-in)"
+scp,2021_1,241,2,"Employee working as professional who follows instructions (e.g. clerk, accountant, technical draftsperson)","Angestellte/r mit einer qualifizierten Tätigkeit, die nach Anweisung erledigt wird  (z.B. Sachbearbeiter/-in, Buchhalter/-in, technische/r Zeichner/-in)"
+scp,2021_1,241,3,"Employee who works independently and is responsible for personnel (e.g. research assistant, authorised signatory, head of a department, master craftsman in an employment relationship)","Angestellte/r mit eigenständiger Leistung in verantwortlicher Tätigkeit bzw. mit Fachverantwortung für Personal (z.B. wissenschaftliche/r Mitarbeiter/-in, Prokurist/-in, Abteilungsleiter/-in bzw. Meister/-in im Angestelltenverhältnis)"
+scp,2021_1,241,4,"Employee with comprehensive management responsibilities and decision-making powers (e.g. director, managing director, board member)","Angestellte/r mit umfassenden Führungsaufgaben und Entscheidungsbefugnissen (z.B. Direktor/-in, Geschäftsführer/-in, Mitglied des Vorstandes)"
+scp,2021_1,242,1,Unskilled worker (ungelernt),Ungelernte/r Arbeiter/-in
+scp,2021_1,242,2,Semi-skilled worker (angelernt),Angelernte/r Arbeiter/-in
+scp,2021_1,242,3,Trained worker (gelernter Arbeiter) or skilled worker (Facharbeiter),Gelernte/r und Facharbeiter/-in
+scp,2021_1,242,4,Foreman / forewoman (Vorarbeiter/Kolonnenführer),"Vorarbeiter/-in, Kolonnenführer/-in"
+scp,2021_1,242,5,Master craftsperson (Meister/Polier),"Meister/-in, Polier/-in"
+scp,2021_1,238,1,My spouse,Mein/e Ehepartner/in
+scp,2021_1,238,2,My partner,Mein/e Partner/in
+scp,2021_1,238,3,My child,Mein Kind
+scp,2021_1,238,4,My mother/father,Meine Mutter/mein Vater
+scp,2021_1,238,5,My brother/my sister,Mein Bruder/meine Schwester
+scp,2021_1,238,6,Another relative,Eine andere verwandte Person
+scp,2021_1,238,7,An unrelated person,Eine nicht verwandte Person
+scp,2021_1,243,1,"Yes, one other person lives in the household","Ja, es lebt noch eine weitere Person im Haushalt"
+scp,2021_1,243,2,"No, I have listed all the people in the household apart from me","Nein, das sind alle Personen im Haushalt außer mir"
+scp,2021_1,246,1,"Yes, I agree to the storage of my address","Ja, mit Adressspeicherung einverstanden"
+scp,2021_1,246,2,"No, I disagree","Nein, nicht einverstanden"
+scp,2021_1,243_1,1,"Yes, another person aged 18 or over lives in the household","Ja, es lebt noch eine weitere Person ab 18 Jahren im Haushalt"
+scp,2021_1,243_1,2,"No, that’s everyone in the household aged 18 or over apart from me","Nein, das sind alle Personen ab 18 Jahren im Haushalt außer mir"
+scp,2021_1,198_2,10,10 Top,10 Oben
+scp,2021_1,198_2,9,9,9
+scp,2021_1,198_2,8,8,8
+scp,2021_1,198_2,7,7,7
+scp,2021_1,198_2,6,6,6
+scp,2021_1,198_2,5,5,5
+scp,2021_1,198_2,4,4,4
+scp,2021_1,198_2,3,3,3
+scp,2021_1,198_2,2,2,2
+scp,2021_1,198_2,1,1 Bottom,1 Unten
+scp,2021_1,223_1,1,Yes,Ja
+scp,2021_1,223_1,2,No,Nein
+scp,2021_1,223_1,-2,Does not apply,Trifft nicht zu
+scp,2021_1,555,2,List people aged 18 or over in the household,Personen ab 18 Jahren im Haushalt eintragen
+scp,2021_1,555,1,There is no person aged 18 or over in the household except myself,Außer mir gibt es keine Person ab 18 Jahren hier im Haushalt
+scp,2021_1,777,0,0 Not restricted at all,0 Überhaupt nicht eingeschränkt
+scp,2021_1,777,1,1,1
+scp,2021_1,777,2,2,2
+scp,2021_1,777,3,3,3
+scp,2021_1,777,4,4,4
+scp,2021_1,777,5,5,5
+scp,2021_1,777,6,6,6
+scp,2021_1,777,7,7,7
+scp,2021_1,777,8,8,8
+scp,2021_1,777,9,9,9
+scp,2021_1,777,10,10 Very restricted,10 Sehr eingeschränkt
+scp,2021_1,1234,1,Anchor person (AP),Ankerperson (AP)
+scp,2021_1,1234,2,Household member (HM),Haushaltsmitglied (HM)
+scp,2021_1,mode,1,"Paper questionnaire, postal (PAPI)","Papierfragebogen, postalisch (PAPI)"
+scp,2021_1,mode,2,Online questionnaire (CAWI),Online-Fragebogen (CAWI)
