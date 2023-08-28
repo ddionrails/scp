@@ -1,3 +1,3 @@
 study,name,label,label_de,description,description_de,analysis_unit,conceptual_dataset,period,primary_key,folder,dollar_dataset,minedition
-scp,pgen,Generated Variables,,,,,gen,,,,,onsite
-scp,p,Raw Survey Data,,,,,raw,,,,,onsite
+scp,pgen,Person-related Status and Generated Variables,Personenbezogene generierte Variablen,,,p,gen,0,,,,onsite
+scp,p,Variables from the Individual Question Module,Variablen aus dem individuellen Fragenmodul,,,p,org/net,0,,,,onsite
