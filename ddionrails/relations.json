@@ -159,6 +159,14 @@
                     "dataset",
                     "variable"
                 ]
+            },
+            {
+                "file": "variables_images.csv",
+                "fields": [
+                    "study",
+                    "dataset",
+                    "variable"
+                ]
             }
         ]
     }
